@@ -1,0 +1,12 @@
+# data and outputs
+data/
+*.json
+
+# secrets (we will need these at the Snowflake stage)
+.env
+*.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
